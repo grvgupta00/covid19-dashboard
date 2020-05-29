@@ -1,0 +1,6 @@
+<div class="row" *ngIf="loaded">
+    <app-chart [options]="totalStatConfig"></app-chart>
+    <app-chart [options]="totalCasesConfig"></app-chart>
+    <app-chart [options]="activeCasesConfig"></app-chart>
+    <app-chart [options]="deathCasesConfig"></app-chart>
+</div>
