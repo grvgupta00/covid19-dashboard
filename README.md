@@ -19,4 +19,4 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 ## Visuals
 
-
+![](visuals/Covid19-Dashboard-1.JPG) ![](visuals/Covid19-Dashboard-2.JPG)
