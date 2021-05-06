@@ -33,7 +33,7 @@
     "aws-serverless-express": "^3.3.6",
     "bootstrap": "^4.4.1",
     "cors": "^2.8.5",
-    "highcharts": "^8.0.4",
+    "highcharts": "^9.0.0",
     "highcharts-angular": "^2.4.0",
     "rxjs": "~6.5.4",
     "tslib": "^1.10.0",
